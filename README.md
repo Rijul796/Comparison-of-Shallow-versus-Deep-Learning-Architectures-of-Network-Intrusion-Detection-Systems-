@@ -1,8 +1,9 @@
 # Comparative Analysis of Shallow versus Deep Learning Architectures for Network Intrusion Detection Systems
 
 **Authors:** Rijul Sharma, Saurabh Verma, Shiva Chahar  
+**Roll No:** 2210992152, 2210992271, 2210992301
 **Institution:** Chitkara University, Punjab, India  
-
+**Type:** Research Paper
 ---
 
 ## 📌 Overview
